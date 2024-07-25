@@ -24,107 +24,88 @@ local ScrollingFrame = Instance.new("ScrollingFrame")
 local UIListLayout = Instance.new("UIListLayout")
 local TextLabel_2 = Instance.new("TextLabel")
 local TextButton = Instance.new("TextButton")
-local UICorner_4 = Instance.new("UICorner")
 local TextButton_2 = Instance.new("TextButton")
-local UICorner_5 = Instance.new("UICorner")
 local TextButton_3 = Instance.new("TextButton")
-local UICorner_6 = Instance.new("UICorner")
 local TextLabel_3 = Instance.new("TextLabel")
 local TextButton_4 = Instance.new("TextButton")
-local UICorner_7 = Instance.new("UICorner")
 local RainbowDelay = Instance.new("TextBox")
-local UICorner_8 = Instance.new("UICorner")
+local UICorner_4 = Instance.new("UICorner")
 local TextLabel_4 = Instance.new("TextLabel")
 local TextButton_5 = Instance.new("TextButton")
-local UICorner_9 = Instance.new("UICorner")
 local TextButton_6 = Instance.new("TextButton")
-local UICorner_10 = Instance.new("UICorner")
 local TextButton_7 = Instance.new("TextButton")
-local UICorner_11 = Instance.new("UICorner")
 local TextButton_8 = Instance.new("TextButton")
-local UICorner_12 = Instance.new("UICorner")
 local TextButton_9 = Instance.new("TextButton")
-local UICorner_13 = Instance.new("UICorner")
 local TextLabel_5 = Instance.new("TextLabel")
 local X1 = Instance.new("TextBox")
-local UICorner_14 = Instance.new("UICorner")
+local UICorner_5 = Instance.new("UICorner")
 local X2 = Instance.new("TextBox")
-local UICorner_15 = Instance.new("UICorner")
+local UICorner_6 = Instance.new("UICorner")
 local Y1 = Instance.new("TextBox")
-local UICorner_16 = Instance.new("UICorner")
+local UICorner_7 = Instance.new("UICorner")
 local Y2 = Instance.new("TextBox")
-local UICorner_17 = Instance.new("UICorner")
+local UICorner_8 = Instance.new("UICorner")
 local Z1 = Instance.new("TextBox")
-local UICorner_18 = Instance.new("UICorner")
+local UICorner_9 = Instance.new("UICorner")
 local Z2 = Instance.new("TextBox")
-local UICorner_19 = Instance.new("UICorner")
+local UICorner_10 = Instance.new("UICorner")
 local TextLabel_6 = Instance.new("TextLabel")
 local TextButton_10 = Instance.new("TextButton")
-local UICorner_20 = Instance.new("UICorner")
-local GunSounds = Instance.new("Folder")
+local UICorner_11 = Instance.new("UICorner")
 local Morphs_2 = Instance.new("Frame")
-local UICorner_21 = Instance.new("UICorner")
+local UICorner_12 = Instance.new("UICorner")
 local TextLabel_7 = Instance.new("TextLabel")
 local TextButton_11 = Instance.new("TextButton")
-local UICorner_22 = Instance.new("UICorner")
 local Morphs_3 = Instance.new("Frame")
-local UICorner_23 = Instance.new("UICorner")
+local UICorner_13 = Instance.new("UICorner")
 local TextButton_12 = Instance.new("TextButton")
-local UICorner_24 = Instance.new("UICorner")
 local TextBox = Instance.new("TextBox")
-local UICorner_25 = Instance.new("UICorner")
 local CharUser = Instance.new("TextLabel")
 local TextButton_13 = Instance.new("TextButton")
-local UICorner_26 = Instance.new("UICorner")
-local UIGradient = Instance.new("UIGradient")
 local TextButton_14 = Instance.new("TextButton")
-local UICorner_27 = Instance.new("UICorner")
 local TextButton_15 = Instance.new("TextButton")
-local UICorner_28 = Instance.new("UICorner")
 local TextButton_16 = Instance.new("TextButton")
-local UICorner_29 = Instance.new("UICorner")
 local TextButton_17 = Instance.new("TextButton")
-local UICorner_30 = Instance.new("UICorner")
 local TextButton_18 = Instance.new("TextButton")
-local UICorner_31 = Instance.new("UICorner")
 local BodyRed = Instance.new("TextBox")
-local UICorner_32 = Instance.new("UICorner")
+local UICorner_14 = Instance.new("UICorner")
 local BodyGreen = Instance.new("TextBox")
-local UICorner_33 = Instance.new("UICorner")
+local UICorner_15 = Instance.new("UICorner")
 local BodyBlue = Instance.new("TextBox")
-local UICorner_34 = Instance.new("UICorner")
+local UICorner_16 = Instance.new("UICorner")
+local TextButton_19 = Instance.new("TextButton")
 local Extra_2 = Instance.new("Frame")
-local UICorner_35 = Instance.new("UICorner")
+local UICorner_17 = Instance.new("UICorner")
 local TextLabel_8 = Instance.new("TextLabel")
 local Extra_3 = Instance.new("Frame")
-local UICorner_36 = Instance.new("UICorner")
+local UICorner_18 = Instance.new("UICorner")
 local TextBox_2 = Instance.new("TextBox")
-local UICorner_37 = Instance.new("UICorner")
-local TextButton_19 = Instance.new("TextButton")
-local UICorner_38 = Instance.new("UICorner")
+local UICorner_19 = Instance.new("UICorner")
 local TextButton_20 = Instance.new("TextButton")
-local UICorner_39 = Instance.new("UICorner")
+local UICorner_20 = Instance.new("UICorner")
 local TextButton_21 = Instance.new("TextButton")
-local UICorner_40 = Instance.new("UICorner")
+local UICorner_21 = Instance.new("UICorner")
 local TextButton_22 = Instance.new("TextButton")
-local UICorner_41 = Instance.new("UICorner")
+local UICorner_22 = Instance.new("UICorner")
+local TextButton_23 = Instance.new("TextButton")
+local UICorner_23 = Instance.new("UICorner")
 local ImageLabel_5 = Instance.new("ImageLabel")
-local UICorner_42 = Instance.new("UICorner")
+local UICorner_24 = Instance.new("UICorner")
 local PLAYERDISPLAY = Instance.new("TextLabel")
 local Playername = Instance.new("TextLabel")
-local TextButton_23 = Instance.new("TextButton")
-local UICorner_43 = Instance.new("UICorner")
+local TextButton_24 = Instance.new("TextButton")
+local UICorner_25 = Instance.new("UICorner")
 local HP = Instance.new("TextLabel")
 local Joindate = Instance.new("TextLabel")
 local Configs_2 = Instance.new("Frame")
-local UICorner_44 = Instance.new("UICorner")
+local UICorner_26 = Instance.new("UICorner")
 local TextLabel_9 = Instance.new("TextLabel")
 local ScrollingFrame_2 = Instance.new("ScrollingFrame")
-local UICorner_45 = Instance.new("UICorner")
-local TextButton_24 = Instance.new("TextButton")
-local UICorner_46 = Instance.new("UICorner")
+local UICorner_27 = Instance.new("UICorner")
 local TextButton_25 = Instance.new("TextButton")
-local UICorner_47 = Instance.new("UICorner")
+local UICorner_28 = Instance.new("UICorner")
+local TextButton_26 = Instance.new("TextButton")
+local UICorner_29 = Instance.new("UICorner")
 local TextLabel_10 = Instance.new("TextLabel")
 local TextLabel_11 = Instance.new("TextLabel")
 local TextLabel_12 = Instance.new("TextLabel")
@@ -132,7 +113,7 @@ local TextLabel_13 = Instance.new("TextLabel")
 local IntroFrame = Instance.new("Frame")
 local TextLabel_14 = Instance.new("TextLabel")
 local TextLabel_15 = Instance.new("TextLabel")
-local UIGradient_2 = Instance.new("UIGradient")
+local UIGradient = Instance.new("UIGradient")
 
 --Properties:
 
@@ -143,7 +124,8 @@ DWV2.ResetOnSpawn = false
 
 BG.Name = "BG"
 BG.Parent = DWV2
-BG.BackgroundColor3 = Color3.fromRGB(45, 45, 45)
+BG.BackgroundColor3 = Color3.fromRGB(8, 8, 8)
+BG.BackgroundTransparency = 0.200
 BG.BorderColor3 = Color3.fromRGB(0, 0, 0)
 BG.BorderSizePixel = 0
 BG.ClipsDescendants = true
@@ -171,6 +153,7 @@ TextLabel.TextWrapped = true
 Selectionbar.Name = "Selectionbar"
 Selectionbar.Parent = BG
 Selectionbar.BackgroundColor3 = Color3.fromRGB(8, 8, 8)
+Selectionbar.BackgroundTransparency = 0.700
 Selectionbar.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Selectionbar.BorderSizePixel = 0
 Selectionbar.Position = UDim2.new(-9.5898443e-08, 0, 0, 0)
@@ -284,6 +267,7 @@ Tabs.Parent = BG
 Scripts_2.Name = "Scripts"
 Scripts_2.Parent = Tabs
 Scripts_2.BackgroundColor3 = Color3.fromRGB(8, 8, 8)
+Scripts_2.BackgroundTransparency = 0.700
 Scripts_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Scripts_2.BorderSizePixel = 0
 Scripts_2.ClipsDescendants = true
@@ -299,7 +283,7 @@ ScrollingFrame.BackgroundTransparency = 1.000
 ScrollingFrame.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ScrollingFrame.BorderSizePixel = 0
 ScrollingFrame.Position = UDim2.new(0, 0, 0.134444267, 0)
-ScrollingFrame.Size = UDim2.new(0, 369, 0, 250)
+ScrollingFrame.Size = UDim2.new(1.0007093, 0, 0.719856501, 0)
 
 UIListLayout.Parent = ScrollingFrame
 UIListLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center
@@ -321,7 +305,7 @@ TextLabel_2.TextSize = 14.000
 TextLabel_2.TextWrapped = true
 
 TextButton.Parent = ScrollingFrame
-TextButton.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+TextButton.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton.BorderSizePixel = 0
 TextButton.Position = UDim2.new(0.0123924706, 0, 0.308685392, 0)
@@ -334,10 +318,8 @@ TextButton.TextSize = 14.000
 TextButton.TextStrokeTransparency = 0.000
 TextButton.TextWrapped = true
 
-UICorner_4.Parent = TextButton
-
 TextButton_2.Parent = ScrollingFrame
-TextButton_2.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+TextButton_2.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_2.BorderSizePixel = 0
 TextButton_2.Position = UDim2.new(0, 0, 0.164374635, 0)
@@ -350,10 +332,8 @@ TextButton_2.TextSize = 14.000
 TextButton_2.TextStrokeTransparency = 0.000
 TextButton_2.TextWrapped = true
 
-UICorner_5.Parent = TextButton_2
-
 TextButton_3.Parent = ScrollingFrame
-TextButton_3.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+TextButton_3.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_3.BorderSizePixel = 0
 TextButton_3.Position = UDim2.new(0.00406338647, 0, 0.123262972, 0)
@@ -365,8 +345,6 @@ TextButton_3.TextScaled = true
 TextButton_3.TextSize = 14.000
 TextButton_3.TextStrokeTransparency = 0.000
 TextButton_3.TextWrapped = true
-
-UICorner_6.Parent = TextButton_3
 
 TextLabel_3.Parent = ScrollingFrame
 TextLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -383,7 +361,7 @@ TextLabel_3.TextSize = 14.000
 TextLabel_3.TextWrapped = true
 
 TextButton_4.Parent = ScrollingFrame
-TextButton_4.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+TextButton_4.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_4.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_4.BorderSizePixel = 0
 TextButton_4.Position = UDim2.new(0.00406338647, 0, 0.123262972, 0)
@@ -395,8 +373,6 @@ TextButton_4.TextScaled = true
 TextButton_4.TextSize = 14.000
 TextButton_4.TextStrokeTransparency = 0.000
 TextButton_4.TextWrapped = true
-
-UICorner_7.Parent = TextButton_4
 
 RainbowDelay.Name = "RainbowDelay"
 RainbowDelay.Parent = ScrollingFrame
@@ -414,7 +390,7 @@ RainbowDelay.TextColor3 = Color3.fromRGB(255, 255, 255)
 RainbowDelay.TextSize = 20.000
 RainbowDelay.TextWrapped = true
 
-UICorner_8.Parent = RainbowDelay
+UICorner_4.Parent = RainbowDelay
 
 TextLabel_4.Parent = ScrollingFrame
 TextLabel_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -431,7 +407,7 @@ TextLabel_4.TextSize = 14.000
 TextLabel_4.TextWrapped = true
 
 TextButton_5.Parent = ScrollingFrame
-TextButton_5.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+TextButton_5.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_5.BorderSizePixel = 0
 TextButton_5.Size = UDim2.new(0.899999976, 0, 0.0370000005, 0)
@@ -443,10 +419,8 @@ TextButton_5.TextSize = 14.000
 TextButton_5.TextStrokeTransparency = 0.000
 TextButton_5.TextWrapped = true
 
-UICorner_9.Parent = TextButton_5
-
 TextButton_6.Parent = ScrollingFrame
-TextButton_6.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+TextButton_6.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_6.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_6.BorderSizePixel = 0
 TextButton_6.Size = UDim2.new(0.899999976, 0, 0.0370000005, 0)
@@ -458,10 +432,8 @@ TextButton_6.TextSize = 14.000
 TextButton_6.TextStrokeTransparency = 0.000
 TextButton_6.TextWrapped = true
 
-UICorner_10.Parent = TextButton_6
-
 TextButton_7.Parent = ScrollingFrame
-TextButton_7.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+TextButton_7.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_7.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_7.BorderSizePixel = 0
 TextButton_7.Size = UDim2.new(0.899999976, 0, 0.0370000005, 0)
@@ -473,10 +445,8 @@ TextButton_7.TextSize = 14.000
 TextButton_7.TextStrokeTransparency = 0.000
 TextButton_7.TextWrapped = true
 
-UICorner_11.Parent = TextButton_7
-
 TextButton_8.Parent = ScrollingFrame
-TextButton_8.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+TextButton_8.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_8.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_8.BorderSizePixel = 0
 TextButton_8.Size = UDim2.new(0.899999976, 0, 0.0370000005, 0)
@@ -488,10 +458,8 @@ TextButton_8.TextSize = 14.000
 TextButton_8.TextStrokeTransparency = 0.000
 TextButton_8.TextWrapped = true
 
-UICorner_12.Parent = TextButton_8
-
 TextButton_9.Parent = ScrollingFrame
-TextButton_9.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+TextButton_9.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_9.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_9.BorderSizePixel = 0
 TextButton_9.Size = UDim2.new(0.899999976, 0, 0.0370000005, 0)
@@ -502,8 +470,6 @@ TextButton_9.TextScaled = true
 TextButton_9.TextSize = 14.000
 TextButton_9.TextStrokeTransparency = 0.000
 TextButton_9.TextWrapped = true
-
-UICorner_13.Parent = TextButton_9
 
 TextLabel_5.Parent = Scripts_2
 TextLabel_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -521,8 +487,7 @@ TextLabel_5.TextWrapped = true
 
 X1.Name = "X1"
 X1.Parent = Scripts_2
-X1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-X1.BackgroundTransparency = 1.000
+X1.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 X1.BorderColor3 = Color3.fromRGB(0, 0, 0)
 X1.BorderSizePixel = 0
 X1.Position = UDim2.new(0.265715152, 0, 0.880413234, 0)
@@ -538,12 +503,11 @@ X1.TextSize = 14.000
 X1.TextStrokeTransparency = 0.000
 X1.TextWrapped = true
 
-UICorner_14.Parent = X1
+UICorner_5.Parent = X1
 
 X2.Name = "X2"
 X2.Parent = Scripts_2
-X2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-X2.BackgroundTransparency = 1.000
+X2.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 X2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 X2.BorderSizePixel = 0
 X2.Position = UDim2.new(0.558851719, 0, 0.879998088, 0)
@@ -559,12 +523,11 @@ X2.TextSize = 14.000
 X2.TextStrokeTransparency = 0.000
 X2.TextWrapped = true
 
-UICorner_15.Parent = X2
+UICorner_6.Parent = X2
 
 Y1.Name = "Y1"
 Y1.Parent = Scripts_2
-Y1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Y1.BackgroundTransparency = 1.000
+Y1.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 Y1.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Y1.BorderSizePixel = 0
 Y1.Position = UDim2.new(0.364359438, 0, 0.880413234, 0)
@@ -580,12 +543,11 @@ Y1.TextSize = 14.000
 Y1.TextStrokeTransparency = 0.000
 Y1.TextWrapped = true
 
-UICorner_16.Parent = Y1
+UICorner_7.Parent = Y1
 
 Y2.Name = "Y2"
 Y2.Parent = Scripts_2
-Y2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Y2.BackgroundTransparency = 1.000
+Y2.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 Y2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Y2.BorderSizePixel = 0
 Y2.Position = UDim2.new(0.657496035, 0, 0.879998088, 0)
@@ -601,12 +563,11 @@ Y2.TextSize = 14.000
 Y2.TextStrokeTransparency = 0.000
 Y2.TextWrapped = true
 
-UICorner_17.Parent = Y2
+UICorner_8.Parent = Y2
 
 Z1.Name = "Z1"
 Z1.Parent = Scripts_2
-Z1.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Z1.BackgroundTransparency = 1.000
+Z1.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 Z1.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Z1.BorderSizePixel = 0
 Z1.Position = UDim2.new(0.45865196, 0, 0.880413234, 0)
@@ -622,12 +583,11 @@ Z1.TextSize = 14.000
 Z1.TextStrokeTransparency = 0.000
 Z1.TextWrapped = true
 
-UICorner_18.Parent = Z1
+UICorner_9.Parent = Z1
 
 Z2.Name = "Z2"
 Z2.Parent = Scripts_2
-Z2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-Z2.BackgroundTransparency = 1.000
+Z2.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 Z2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Z2.BorderSizePixel = 0
 Z2.Position = UDim2.new(0.751788557, 0, 0.879998088, 0)
@@ -643,7 +603,7 @@ Z2.TextSize = 14.000
 Z2.TextStrokeTransparency = 0.000
 Z2.TextWrapped = true
 
-UICorner_19.Parent = Z2
+UICorner_10.Parent = Z2
 
 TextLabel_6.Parent = Scripts_2
 TextLabel_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -674,21 +634,19 @@ TextButton_10.TextSize = 14.000
 TextButton_10.TextStrokeTransparency = 0.000
 TextButton_10.TextWrapped = true
 
-UICorner_20.Parent = TextButton_10
-
-GunSounds.Name = "GunSounds"
-GunSounds.Parent = Scripts_2
+UICorner_11.Parent = TextButton_10
 
 Morphs_2.Name = "Morphs"
 Morphs_2.Parent = Tabs
 Morphs_2.BackgroundColor3 = Color3.fromRGB(8, 8, 8)
+Morphs_2.BackgroundTransparency = 0.700
 Morphs_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Morphs_2.BorderSizePixel = 0
-Morphs_2.Position = UDim2.new(0.291156173, 0, 0.0297637731, 0)
+Morphs_2.Position = UDim2.new(0.319356948, 0, 0.0269912742, 0)
 Morphs_2.Size = UDim2.new(0.678787529, 0, 0.600440443, 0)
 Morphs_2.Visible = false
 
-UICorner_21.Parent = Morphs_2
+UICorner_12.Parent = Morphs_2
 
 TextLabel_7.Parent = Morphs_2
 TextLabel_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -705,12 +663,11 @@ TextLabel_7.TextSize = 14.000
 TextLabel_7.TextWrapped = true
 
 TextButton_11.Parent = Morphs_2
-TextButton_11.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextButton_11.BackgroundTransparency = 1.000
+TextButton_11.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_11.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_11.BorderSizePixel = 0
-TextButton_11.Position = UDim2.new(0.0349182077, 0, 0.274651617, 0)
-TextButton_11.Size = UDim2.new(0.311280936, 0, 0.1228045, 0)
+TextButton_11.Position = UDim2.new(0.0376878642, 0, 0.274651617, 0)
+TextButton_11.Size = UDim2.new(0.246999994, 0, 0.123000003, 0)
 TextButton_11.Font = Enum.Font.SourceSansBold
 TextButton_11.Text = "Rainbow Highlight"
 TextButton_11.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -719,25 +676,23 @@ TextButton_11.TextSize = 14.000
 TextButton_11.TextStrokeTransparency = 0.000
 TextButton_11.TextWrapped = true
 
-UICorner_22.Parent = TextButton_11
-
 Morphs_3.Name = "Morphs"
 Morphs_3.Parent = Morphs_2
 Morphs_3.BackgroundColor3 = Color3.fromRGB(8, 8, 8)
+Morphs_3.BackgroundTransparency = 0.700
 Morphs_3.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Morphs_3.BorderSizePixel = 0
 Morphs_3.Position = UDim2.new(0, 0, 1.06406808, 0)
 Morphs_3.Size = UDim2.new(1.00000012, 0, 0.4803873, 0)
 
-UICorner_23.Parent = Morphs_3
+UICorner_13.Parent = Morphs_3
 
 TextButton_12.Parent = Morphs_3
-TextButton_12.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextButton_12.BackgroundTransparency = 1.000
+TextButton_12.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_12.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_12.BorderSizePixel = 0
-TextButton_12.Position = UDim2.new(0.0364763066, 0, 0.674424708, 0)
-TextButton_12.Size = UDim2.new(0.427308798, 0, 0.219113857, 0)
+TextButton_12.Position = UDim2.new(0.0563476942, 0, 0.67442441, 0)
+TextButton_12.Size = UDim2.new(0.39083901, 0, 0.219113857, 0)
 TextButton_12.Font = Enum.Font.SourceSansBold
 TextButton_12.Text = "CHAR"
 TextButton_12.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -746,11 +701,8 @@ TextButton_12.TextSize = 14.000
 TextButton_12.TextStrokeTransparency = 0.000
 TextButton_12.TextWrapped = true
 
-UICorner_24.Parent = TextButton_12
-
 TextBox.Parent = Morphs_3
-TextBox.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextBox.BackgroundTransparency = 1.000
+TextBox.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextBox.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextBox.BorderSizePixel = 0
 TextBox.Position = UDim2.new(0.0563477017, 0, 0.417827517, 0)
@@ -764,8 +716,6 @@ TextBox.TextScaled = true
 TextBox.TextSize = 14.000
 TextBox.TextStrokeTransparency = 0.000
 TextBox.TextWrapped = true
-
-UICorner_25.Parent = TextBox
 
 CharUser.Name = "CharUser"
 CharUser.Parent = Morphs_3
@@ -783,12 +733,11 @@ CharUser.TextSize = 14.000
 CharUser.TextWrapped = true
 
 TextButton_13.Parent = Morphs_3
-TextButton_13.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextButton_13.BackgroundTransparency = 1.000
+TextButton_13.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_13.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_13.BorderSizePixel = 0
-TextButton_13.Position = UDim2.new(0.670243919, 0, 0.209556162, 0)
-TextButton_13.Size = UDim2.new(0.282488614, 0, 0.579033434, 0)
+TextButton_13.Position = UDim2.new(0.663646877, 0, 0.257615924, 0)
+TextButton_13.Size = UDim2.new(0.314013422, 0, 0.304390371, 0)
 TextButton_13.Font = Enum.Font.SourceSansBold
 TextButton_13.Text = "RESET AVATAR"
 TextButton_13.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -797,20 +746,12 @@ TextButton_13.TextSize = 14.000
 TextButton_13.TextStrokeTransparency = 0.000
 TextButton_13.TextWrapped = true
 
-UICorner_26.Parent = TextButton_13
-
-UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(170, 0, 0)), ColorSequenceKeypoint.new(0.54, Color3.fromRGB(170, 0, 0)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(0, 0, 0))}
-UIGradient.Rotation = 90
-UIGradient.Transparency = NumberSequence.new{NumberSequenceKeypoint.new(0.00, 0.70), NumberSequenceKeypoint.new(1.00, 0.70)}
-UIGradient.Parent = Morphs_3
-
 TextButton_14.Parent = Morphs_2
-TextButton_14.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextButton_14.BackgroundTransparency = 1.000
+TextButton_14.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_14.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_14.BorderSizePixel = 0
-TextButton_14.Position = UDim2.new(0.0349182077, 0, 0.436261714, 0)
-TextButton_14.Size = UDim2.new(0.311280936, 0, 0.1228045, 0)
+TextButton_14.Position = UDim2.new(0.381134331, 0, 0.274651617, 0)
+TextButton_14.Size = UDim2.new(0.246999994, 0, 0.123000003, 0)
 TextButton_14.Font = Enum.Font.SourceSansBold
 TextButton_14.Text = "Names"
 TextButton_14.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -819,15 +760,12 @@ TextButton_14.TextSize = 14.000
 TextButton_14.TextStrokeTransparency = 0.000
 TextButton_14.TextWrapped = true
 
-UICorner_27.Parent = TextButton_14
-
 TextButton_15.Parent = Morphs_2
-TextButton_15.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextButton_15.BackgroundTransparency = 1.000
+TextButton_15.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_15.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_15.BorderSizePixel = 0
-TextButton_15.Position = UDim2.new(0.0349181332, 0, 0.588636935, 0)
-TextButton_15.Size = UDim2.new(0.311280936, 0, 0.1228045, 0)
+TextButton_15.Position = UDim2.new(0.728421807, 0, 0.274651617, 0)
+TextButton_15.Size = UDim2.new(0.246999994, 0, 0.123000003, 0)
 TextButton_15.Font = Enum.Font.SourceSansBold
 TextButton_15.Text = "Toggle Forcefield"
 TextButton_15.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -836,15 +774,12 @@ TextButton_15.TextSize = 14.000
 TextButton_15.TextStrokeTransparency = 0.000
 TextButton_15.TextWrapped = true
 
-UICorner_28.Parent = TextButton_15
-
 TextButton_16.Parent = Morphs_2
-TextButton_16.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextButton_16.BackgroundTransparency = 1.000
+TextButton_16.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_16.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_16.BorderSizePixel = 0
-TextButton_16.Position = UDim2.new(0.0349181332, 0, 0.708690166, 0)
-TextButton_16.Size = UDim2.new(0.311280936, 0, 0.1228045, 0)
+TextButton_16.Position = UDim2.new(0.0376878642, 0, 0.468583733, 0)
+TextButton_16.Size = UDim2.new(0.246999994, 0, 0.123000003, 0)
 TextButton_16.Font = Enum.Font.SourceSansBold
 TextButton_16.Text = "Toggle Neon"
 TextButton_16.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -853,14 +788,11 @@ TextButton_16.TextSize = 14.000
 TextButton_16.TextStrokeTransparency = 0.000
 TextButton_16.TextWrapped = true
 
-UICorner_29.Parent = TextButton_16
-
 TextButton_17.Parent = Morphs_2
-TextButton_17.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextButton_17.BackgroundTransparency = 1.000
+TextButton_17.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_17.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_17.BorderSizePixel = 0
-TextButton_17.Position = UDim2.new(0.0349181332, 0, 0.847213089, 0)
+TextButton_17.Position = UDim2.new(0.666416466, 0, 1.33666074, 0)
 TextButton_17.Size = UDim2.new(0.311280936, 0, 0.1228045, 0)
 TextButton_17.Font = Enum.Font.SourceSansBold
 TextButton_17.Text = "Remove Accessories"
@@ -870,14 +802,11 @@ TextButton_17.TextSize = 14.000
 TextButton_17.TextStrokeTransparency = 0.000
 TextButton_17.TextWrapped = true
 
-UICorner_30.Parent = TextButton_17
-
 TextButton_18.Parent = Morphs_2
-TextButton_18.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextButton_18.BackgroundTransparency = 1.000
+TextButton_18.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_18.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_18.BorderSizePixel = 0
-TextButton_18.Position = UDim2.new(0.563936472, 0, 0.436261714, 0)
+TextButton_18.Position = UDim2.new(0.444838107, 0, 0.851830542, 0)
 TextButton_18.Size = UDim2.new(0.311280936, 0, 0.1228045, 0)
 TextButton_18.Font = Enum.Font.SourceSansBold
 TextButton_18.Text = "Change Color"
@@ -887,15 +816,14 @@ TextButton_18.TextSize = 14.000
 TextButton_18.TextStrokeTransparency = 0.000
 TextButton_18.TextWrapped = true
 
-UICorner_31.Parent = TextButton_18
-
 BodyRed.Name = "BodyRed"
 BodyRed.Parent = Morphs_2
-BodyRed.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+BodyRed.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
+BodyRed.BackgroundTransparency = 1.000
 BodyRed.BorderColor3 = Color3.fromRGB(0, 0, 0)
 BodyRed.BorderSizePixel = 0
-BodyRed.Position = UDim2.new(0.487472415, 0, 0.263193995, 0)
-BodyRed.Size = UDim2.new(0, 47, 0, 37)
+BodyRed.Position = UDim2.new(0.0387762152, 0, 0.817285776, 0)
+BodyRed.Size = UDim2.new(0.111000001, 0, 0.171000004, 0)
 BodyRed.Font = Enum.Font.SourceSansBold
 BodyRed.PlaceholderColor3 = Color3.fromRGB(255, 0, 0)
 BodyRed.PlaceholderText = "R"
@@ -906,16 +834,17 @@ BodyRed.TextSize = 14.000
 BodyRed.TextStrokeTransparency = 0.000
 BodyRed.TextWrapped = true
 
-UICorner_32.CornerRadius = UDim.new(1, 8)
-UICorner_32.Parent = BodyRed
+UICorner_14.CornerRadius = UDim.new(1, 8)
+UICorner_14.Parent = BodyRed
 
 BodyGreen.Name = "BodyGreen"
 BodyGreen.Parent = Morphs_2
-BodyGreen.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+BodyGreen.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
+BodyGreen.BackgroundTransparency = 1.000
 BodyGreen.BorderColor3 = Color3.fromRGB(0, 0, 0)
 BodyGreen.BorderSizePixel = 0
-BodyGreen.Position = UDim2.new(0.653656185, 0, 0.263193995, 0)
-BodyGreen.Size = UDim2.new(0, 47, 0, 37)
+BodyGreen.Position = UDim2.new(0.160644308, 0, 0.817285776, 0)
+BodyGreen.Size = UDim2.new(0.111000001, 0, 0.171000004, 0)
 BodyGreen.Font = Enum.Font.SourceSansBold
 BodyGreen.PlaceholderColor3 = Color3.fromRGB(85, 255, 127)
 BodyGreen.PlaceholderText = "G"
@@ -926,16 +855,17 @@ BodyGreen.TextSize = 14.000
 BodyGreen.TextStrokeTransparency = 0.000
 BodyGreen.TextWrapped = true
 
-UICorner_33.CornerRadius = UDim.new(1, 8)
-UICorner_33.Parent = BodyGreen
+UICorner_15.CornerRadius = UDim.new(1, 8)
+UICorner_15.Parent = BodyGreen
 
 BodyBlue.Name = "BodyBlue"
 BodyBlue.Parent = Morphs_2
-BodyBlue.BackgroundColor3 = Color3.fromRGB(38, 38, 38)
+BodyBlue.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
+BodyBlue.BackgroundTransparency = 1.000
 BodyBlue.BorderColor3 = Color3.fromRGB(0, 0, 0)
 BodyBlue.BorderSizePixel = 0
-BodyBlue.Position = UDim2.new(0.819839954, 0, 0.263193995, 0)
-BodyBlue.Size = UDim2.new(0, 47, 0, 37)
+BodyBlue.Position = UDim2.new(0.288051873, 0, 0.817285776, 0)
+BodyBlue.Size = UDim2.new(0.111000001, 0, 0.171000004, 0)
 BodyBlue.Font = Enum.Font.SourceSansBold
 BodyBlue.PlaceholderColor3 = Color3.fromRGB(85, 85, 255)
 BodyBlue.PlaceholderText = "B"
@@ -946,19 +876,34 @@ BodyBlue.TextSize = 14.000
 BodyBlue.TextStrokeTransparency = 0.000
 BodyBlue.TextWrapped = true
 
-UICorner_34.CornerRadius = UDim.new(1, 8)
-UICorner_34.Parent = BodyBlue
+UICorner_16.CornerRadius = UDim.new(1, 8)
+UICorner_16.Parent = BodyBlue
+
+TextButton_19.Parent = Morphs_2
+TextButton_19.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
+TextButton_19.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_19.BorderSizePixel = 0
+TextButton_19.Position = UDim2.new(0.375594854, 0, 0.468583733, 0)
+TextButton_19.Size = UDim2.new(0.246999994, 0, 0.123000003, 0)
+TextButton_19.Font = Enum.Font.SourceSansBold
+TextButton_19.Text = "Toggle Darkware"
+TextButton_19.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_19.TextScaled = true
+TextButton_19.TextSize = 14.000
+TextButton_19.TextStrokeTransparency = 0.000
+TextButton_19.TextWrapped = true
 
 Extra_2.Name = "Extra"
 Extra_2.Parent = Tabs
 Extra_2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+Extra_2.BackgroundTransparency = 0.700
 Extra_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Extra_2.BorderSizePixel = 0
 Extra_2.Position = UDim2.new(0.291156083, 0, 0.0297637247, 0)
 Extra_2.Size = UDim2.new(0.678787529, 0, 0.452325702, 0)
 Extra_2.Visible = false
 
-UICorner_35.Parent = Extra_2
+UICorner_17.Parent = Extra_2
 
 TextLabel_8.Parent = Extra_2
 TextLabel_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -982,10 +927,10 @@ Extra_3.BorderSizePixel = 0
 Extra_3.Position = UDim2.new(-0.00360179786, 0, 1.34609008, 0)
 Extra_3.Size = UDim2.new(1.00083184, 0, 0.733259499, 0)
 
-UICorner_36.Parent = Extra_3
+UICorner_18.Parent = Extra_3
 
 TextBox_2.Parent = Extra_2
-TextBox_2.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+TextBox_2.BackgroundColor3 = Color3.fromRGB(8, 8, 8)
 TextBox_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextBox_2.BorderSizePixel = 0
 TextBox_2.Position = UDim2.new(0, 0, 1.08016884, 0)
@@ -999,76 +944,76 @@ TextBox_2.TextColor3 = Color3.fromRGB(255, 0, 0)
 TextBox_2.TextSize = 20.000
 TextBox_2.TextWrapped = true
 
-UICorner_37.Parent = TextBox_2
-
-TextButton_19.Parent = Extra_2
-TextButton_19.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
-TextButton_19.BorderColor3 = Color3.fromRGB(0, 0, 0)
-TextButton_19.BorderSizePixel = 0
-TextButton_19.Position = UDim2.new(0.37714389, 0, 1.52268505, 0)
-TextButton_19.Size = UDim2.new(0.236000001, 0, 0.152999997, 0)
-TextButton_19.Font = Enum.Font.SourceSansBold
-TextButton_19.Text = "View"
-TextButton_19.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextButton_19.TextScaled = true
-TextButton_19.TextSize = 14.000
-TextButton_19.TextWrapped = true
-
-UICorner_38.Parent = TextButton_19
+UICorner_19.Parent = TextBox_2
 
 TextButton_20.Parent = Extra_2
-TextButton_20.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+TextButton_20.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_20.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_20.BorderSizePixel = 0
-TextButton_20.Position = UDim2.new(0.0531129129, 0, 1.5253731, 0)
-TextButton_20.Size = UDim2.new(0.235616684, 0, 0.15341717, 0)
+TextButton_20.Position = UDim2.new(0.37714389, 0, 1.52268505, 0)
+TextButton_20.Size = UDim2.new(0.236000001, 0, 0.152999997, 0)
 TextButton_20.Font = Enum.Font.SourceSansBold
-TextButton_20.Text = "Kill"
+TextButton_20.Text = "View"
 TextButton_20.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextButton_20.TextScaled = true
 TextButton_20.TextSize = 14.000
 TextButton_20.TextWrapped = true
 
-UICorner_39.Parent = TextButton_20
+UICorner_20.Parent = TextButton_20
 
 TextButton_21.Parent = Extra_2
-TextButton_21.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+TextButton_21.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_21.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_21.BorderSizePixel = 0
-TextButton_21.Position = UDim2.new(0.0521352887, 0, 1.7895149, 0)
-TextButton_21.Size = UDim2.new(0.236000001, 0, 0.152999997, 0)
+TextButton_21.Position = UDim2.new(0.0531129129, 0, 1.5253731, 0)
+TextButton_21.Size = UDim2.new(0.235616684, 0, 0.15341717, 0)
 TextButton_21.Font = Enum.Font.SourceSansBold
-TextButton_21.Text = "To"
+TextButton_21.Text = "Kill"
 TextButton_21.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextButton_21.TextScaled = true
 TextButton_21.TextSize = 14.000
 TextButton_21.TextWrapped = true
 
-UICorner_40.Parent = TextButton_21
+UICorner_21.Parent = TextButton_21
 
 TextButton_22.Parent = Extra_2
-TextButton_22.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+TextButton_22.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_22.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_22.BorderSizePixel = 0
-TextButton_22.Position = UDim2.new(0.708761334, 0, 1.51971805, 0)
+TextButton_22.Position = UDim2.new(0.0521352887, 0, 1.7895149, 0)
 TextButton_22.Size = UDim2.new(0.236000001, 0, 0.152999997, 0)
 TextButton_22.Font = Enum.Font.SourceSansBold
-TextButton_22.Text = "Buy Knife"
+TextButton_22.Text = "To"
 TextButton_22.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextButton_22.TextScaled = true
 TextButton_22.TextSize = 14.000
 TextButton_22.TextWrapped = true
 
-UICorner_41.Parent = TextButton_22
+UICorner_22.Parent = TextButton_22
+
+TextButton_23.Parent = Extra_2
+TextButton_23.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
+TextButton_23.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_23.BorderSizePixel = 0
+TextButton_23.Position = UDim2.new(0.708761334, 0, 1.51971805, 0)
+TextButton_23.Size = UDim2.new(0.236000001, 0, 0.152999997, 0)
+TextButton_23.Font = Enum.Font.SourceSansBold
+TextButton_23.Text = "Buy Knife"
+TextButton_23.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_23.TextScaled = true
+TextButton_23.TextSize = 14.000
+TextButton_23.TextWrapped = true
+
+UICorner_23.Parent = TextButton_23
 
 ImageLabel_5.Parent = Extra_2
-ImageLabel_5.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
+ImageLabel_5.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 ImageLabel_5.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ImageLabel_5.BorderSizePixel = 0
 ImageLabel_5.Position = UDim2.new(0.0252922084, 0, 0.208605438, 0)
-ImageLabel_5.Size = UDim2.new(0.351317227, 0, 0.706456542, 0)
+ImageLabel_5.Size = UDim2.new(0.32638967, 0, 0.706456542, 0)
 
-UICorner_42.Parent = ImageLabel_5
+UICorner_24.Parent = ImageLabel_5
 
 PLAYERDISPLAY.Name = "PLAYERDISPLAY"
 PLAYERDISPLAY.Parent = Extra_2
@@ -1102,20 +1047,20 @@ Playername.TextSize = 14.000
 Playername.TextWrapped = true
 Playername.TextXAlignment = Enum.TextXAlignment.Left
 
-TextButton_23.Parent = Extra_2
-TextButton_23.BackgroundColor3 = Color3.fromRGB(53, 53, 53)
-TextButton_23.BorderColor3 = Color3.fromRGB(0, 0, 0)
-TextButton_23.BorderSizePixel = 0
-TextButton_23.Position = UDim2.new(0.374401212, 0, 1.78893805, 0)
-TextButton_23.Size = UDim2.new(0.236000001, 0, 0.152999997, 0)
-TextButton_23.Font = Enum.Font.SourceSansBold
-TextButton_23.Text = "Loop Kill"
-TextButton_23.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextButton_23.TextScaled = true
-TextButton_23.TextSize = 14.000
-TextButton_23.TextWrapped = true
+TextButton_24.Parent = Extra_2
+TextButton_24.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
+TextButton_24.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_24.BorderSizePixel = 0
+TextButton_24.Position = UDim2.new(0.706768751, 0, 1.78893805, 0)
+TextButton_24.Size = UDim2.new(0.236000001, 0, 0.152999997, 0)
+TextButton_24.Font = Enum.Font.SourceSansBold
+TextButton_24.Text = "Loop Kill"
+TextButton_24.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_24.TextScaled = true
+TextButton_24.TextSize = 14.000
+TextButton_24.TextWrapped = true
 
-UICorner_43.Parent = TextButton_23
+UICorner_25.Parent = TextButton_24
 
 HP.Name = "HP"
 HP.Parent = Extra_2
@@ -1152,13 +1097,14 @@ Joindate.TextXAlignment = Enum.TextXAlignment.Left
 Configs_2.Name = "Configs"
 Configs_2.Parent = Tabs
 Configs_2.BackgroundColor3 = Color3.fromRGB(8, 8, 8)
+Configs_2.BackgroundTransparency = 0.700
 Configs_2.BorderColor3 = Color3.fromRGB(0, 0, 0)
 Configs_2.BorderSizePixel = 0
 Configs_2.Position = UDim2.new(0.291156083, 0, 0.0297637638, 0)
 Configs_2.Size = UDim2.new(0.678787529, 0, 0.948947549, 0)
 Configs_2.Visible = false
 
-UICorner_44.Parent = Configs_2
+UICorner_26.Parent = Configs_2
 
 TextLabel_9.Parent = Configs_2
 TextLabel_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -1184,41 +1130,39 @@ ScrollingFrame_2.Position = UDim2.new(0.0497389622, 0, 0.21328032, 0)
 ScrollingFrame_2.Size = UDim2.new(0.387762129, 0, 0.712882578, 0)
 ScrollingFrame_2.VerticalScrollBarPosition = Enum.VerticalScrollBarPosition.Left
 
-UICorner_45.Parent = ScrollingFrame_2
-
-TextButton_24.Parent = Configs_2
-TextButton_24.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextButton_24.BackgroundTransparency = 1.000
-TextButton_24.BorderColor3 = Color3.fromRGB(0, 0, 0)
-TextButton_24.BorderSizePixel = 0
-TextButton_24.Position = UDim2.new(0.477639377, 0, 0.36311847, 0)
-TextButton_24.Size = UDim2.new(0.235583454, 0, 0.0859999955, 0)
-TextButton_24.Font = Enum.Font.SourceSansBold
-TextButton_24.Text = "Load"
-TextButton_24.TextColor3 = Color3.fromRGB(255, 255, 255)
-TextButton_24.TextScaled = true
-TextButton_24.TextSize = 14.000
-TextButton_24.TextStrokeTransparency = 0.000
-TextButton_24.TextWrapped = true
-
-UICorner_46.Parent = TextButton_24
+UICorner_27.Parent = ScrollingFrame_2
 
 TextButton_25.Parent = Configs_2
-TextButton_25.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextButton_25.BackgroundTransparency = 1.000
+TextButton_25.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
 TextButton_25.BorderColor3 = Color3.fromRGB(0, 0, 0)
 TextButton_25.BorderSizePixel = 0
-TextButton_25.Position = UDim2.new(0.738099456, 0, 0.36311847, 0)
+TextButton_25.Position = UDim2.new(0.477639377, 0, 0.36311847, 0)
 TextButton_25.Size = UDim2.new(0.235583454, 0, 0.0859999955, 0)
 TextButton_25.Font = Enum.Font.SourceSansBold
-TextButton_25.Text = "Save"
+TextButton_25.Text = "Load"
 TextButton_25.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextButton_25.TextScaled = true
 TextButton_25.TextSize = 14.000
 TextButton_25.TextStrokeTransparency = 0.000
 TextButton_25.TextWrapped = true
 
-UICorner_47.Parent = TextButton_25
+UICorner_28.Parent = TextButton_25
+
+TextButton_26.Parent = Configs_2
+TextButton_26.BackgroundColor3 = Color3.fromRGB(104, 104, 104)
+TextButton_26.BorderColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_26.BorderSizePixel = 0
+TextButton_26.Position = UDim2.new(0.738099456, 0, 0.36311847, 0)
+TextButton_26.Size = UDim2.new(0.235583454, 0, 0.0859999955, 0)
+TextButton_26.Font = Enum.Font.SourceSansBold
+TextButton_26.Text = "Save"
+TextButton_26.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_26.TextScaled = true
+TextButton_26.TextSize = 14.000
+TextButton_26.TextStrokeTransparency = 0.000
+TextButton_26.TextWrapped = true
+
+UICorner_29.Parent = TextButton_26
 
 TextLabel_10.Parent = Configs_2
 TextLabel_10.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
@@ -1322,13 +1266,13 @@ TextLabel_15.TextScaled = true
 TextLabel_15.TextSize = 14.000
 TextLabel_15.TextWrapped = true
 
-UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(170, 0, 0)), ColorSequenceKeypoint.new(0.54, Color3.fromRGB(170, 0, 0)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(0, 0, 0))}
-UIGradient_2.Rotation = 90
-UIGradient_2.Parent = TextLabel_15
+UIGradient.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(170, 0, 0)), ColorSequenceKeypoint.new(0.54, Color3.fromRGB(170, 0, 0)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(0, 0, 0))}
+UIGradient.Rotation = 90
+UIGradient.Parent = TextLabel_15
 
 -- Scripts:
 
-local function TUUS_fake_script() -- BG.Smooth GUI Dragging 
+local function BFJZAE_fake_script() -- BG.Smooth GUI Dragging 
 	local script = Instance.new('LocalScript', BG)
 
 	local UserInputService = game:GetService("UserInputService")
@@ -1385,8 +1329,8 @@ local function TUUS_fake_script() -- BG.Smooth GUI Dragging
 	
 	runService.Heartbeat:Connect(Update)
 end
-coroutine.wrap(TUUS_fake_script)()
-local function ZOZGXMV_fake_script() -- Scripts.LocalScript 
+coroutine.wrap(BFJZAE_fake_script)()
+local function UNZZ_fake_script() -- Scripts.LocalScript 
 	local script = Instance.new('LocalScript', Scripts)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1422,8 +1366,8 @@ local function ZOZGXMV_fake_script() -- Scripts.LocalScript
 		script.Parent.ImageLabel.ImageColor3 = Color3.fromRGB(255, 255, 255)
 	end)
 end
-coroutine.wrap(ZOZGXMV_fake_script)()
-local function JFPD_fake_script() -- Morphs.LocalScript 
+coroutine.wrap(UNZZ_fake_script)()
+local function PBLGY_fake_script() -- Morphs.LocalScript 
 	local script = Instance.new('LocalScript', Morphs)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1459,8 +1403,8 @@ local function JFPD_fake_script() -- Morphs.LocalScript
 		script.Parent.ImageLabel.ImageColor3 = Color3.fromRGB(255, 255, 255)
 	end)
 end
-coroutine.wrap(JFPD_fake_script)()
-local function MDWIY_fake_script() -- Extra.LocalScript 
+coroutine.wrap(PBLGY_fake_script)()
+local function MTQQR_fake_script() -- Extra.LocalScript 
 	local script = Instance.new('LocalScript', Extra)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1496,8 +1440,8 @@ local function MDWIY_fake_script() -- Extra.LocalScript
 		script.Parent.ImageLabel.ImageColor3 = Color3.fromRGB(255, 255, 255)
 	end)
 end
-coroutine.wrap(MDWIY_fake_script)()
-local function EUPO_fake_script() -- Configs.LocalScript 
+coroutine.wrap(MTQQR_fake_script)()
+local function KYTU_fake_script() -- Configs.LocalScript 
 	local script = Instance.new('LocalScript', Configs)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1533,24 +1477,24 @@ local function EUPO_fake_script() -- Configs.LocalScript
 		script.Parent.ImageLabel.ImageColor3 = Color3.fromRGB(255, 255, 255)
 	end)
 end
-coroutine.wrap(EUPO_fake_script)()
-local function WTDHR_fake_script() -- TextButton.LocalScript 
+coroutine.wrap(KYTU_fake_script)()
+local function VGEQ_fake_script() -- TextButton.LocalScript 
 	local script = Instance.new('LocalScript', TextButton)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		for k,v in pairs(getgc(true)) do if pcall(function() return rawget(v,"indexInstance") end) and type(rawget(v,"indexInstance")) == "table" and (rawget(v,"indexInstance"))[1] == "kick" then v.tvk = {"kick",function() return game.Workspace:WaitForChild("") end} end end
 	end)
 end
-coroutine.wrap(WTDHR_fake_script)()
-local function DICNGN_fake_script() -- TextButton_2.LocalScript 
+coroutine.wrap(VGEQ_fake_script)()
+local function OOVRVI_fake_script() -- TextButton_2.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_2)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 	end)
 end
-coroutine.wrap(DICNGN_fake_script)()
-local function LVXH_fake_script() -- TextButton_3.LocalScript 
+coroutine.wrap(OOVRVI_fake_script)()
+local function CQSRBUM_fake_script() -- TextButton_3.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_3)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1565,8 +1509,8 @@ local function LVXH_fake_script() -- TextButton_3.LocalScript
 		tool.Parent = plr.Character
 	end)
 end
-coroutine.wrap(LVXH_fake_script)()
-local function YTDQBO_fake_script() -- TextButton_4.LocalScript 
+coroutine.wrap(CQSRBUM_fake_script)()
+local function MBXYK_fake_script() -- TextButton_4.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_4)
 
 	local plr = game.Players.LocalPlayer
@@ -1642,8 +1586,8 @@ local function YTDQBO_fake_script() -- TextButton_4.LocalScript
 		end
 	end)
 end
-coroutine.wrap(YTDQBO_fake_script)()
-local function MUBUZ_fake_script() -- TextButton_5.LocalScript 
+coroutine.wrap(MBXYK_fake_script)()
+local function DPJUML_fake_script() -- TextButton_5.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_5)
 
 	local toggled = false
@@ -1662,8 +1606,8 @@ local function MUBUZ_fake_script() -- TextButton_5.LocalScript
 		end)
 	end)
 end
-coroutine.wrap(MUBUZ_fake_script)()
-local function EUIH_fake_script() -- TextButton_6.LocalScript 
+coroutine.wrap(DPJUML_fake_script)()
+local function QIIG_fake_script() -- TextButton_6.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_6)
 
 	local toggled = false
@@ -1682,8 +1626,8 @@ local function EUIH_fake_script() -- TextButton_6.LocalScript
 		end)
 	end)
 end
-coroutine.wrap(EUIH_fake_script)()
-local function IOBN_fake_script() -- TextButton_7.LocalScript 
+coroutine.wrap(QIIG_fake_script)()
+local function QCRUV_fake_script() -- TextButton_7.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_7)
 
 	local toggled = false
@@ -1702,8 +1646,8 @@ local function IOBN_fake_script() -- TextButton_7.LocalScript
 		end)
 	end)
 end
-coroutine.wrap(IOBN_fake_script)()
-local function HWBHVCD_fake_script() -- TextButton_8.LocalScript 
+coroutine.wrap(QCRUV_fake_script)()
+local function UQCYL_fake_script() -- TextButton_8.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_8)
 
 	local toggled = false
@@ -1722,8 +1666,8 @@ local function HWBHVCD_fake_script() -- TextButton_8.LocalScript
 		end)
 	end)
 end
-coroutine.wrap(HWBHVCD_fake_script)()
-local function ZFPQJSE_fake_script() -- TextButton_9.LocalScript 
+coroutine.wrap(UQCYL_fake_script)()
+local function CKXI_fake_script() -- TextButton_9.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_9)
 
 	local toggled = false
@@ -1742,8 +1686,8 @@ local function ZFPQJSE_fake_script() -- TextButton_9.LocalScript
 		end)
 	end)
 end
-coroutine.wrap(ZFPQJSE_fake_script)()
-local function KHHGY_fake_script() -- TextButton_10.LocalScript 
+coroutine.wrap(CKXI_fake_script)()
+local function CQRUQ_fake_script() -- TextButton_10.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_10)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1758,8 +1702,8 @@ local function KHHGY_fake_script() -- TextButton_10.LocalScript
 		tool.Parent = plr.Character
 	end)
 end
-coroutine.wrap(KHHGY_fake_script)()
-local function FALDTW_fake_script() -- TextButton_11.LocalScript 
+coroutine.wrap(CQRUQ_fake_script)()
+local function NGRTLE_fake_script() -- TextButton_11.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_11)
 
 	local toggle = false
@@ -1840,8 +1784,8 @@ local function FALDTW_fake_script() -- TextButton_11.LocalScript
 		end
 	end)
 end
-coroutine.wrap(FALDTW_fake_script)()
-local function TGCHVAS_fake_script() -- TextButton_12.LocalScript 
+coroutine.wrap(NGRTLE_fake_script)()
+local function KQRLL_fake_script() -- TextButton_12.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_12)
 
 	local PlayerService = game:GetService("Players")
@@ -1866,8 +1810,8 @@ local function TGCHVAS_fake_script() -- TextButton_12.LocalScript
 		end
 	end)
 end
-coroutine.wrap(TGCHVAS_fake_script)()
-local function EIFZ_fake_script() -- TextBox.LocalScript 
+coroutine.wrap(KQRLL_fake_script)()
+local function VOZGD_fake_script() -- TextBox.LocalScript 
 	local script = Instance.new('LocalScript', TextBox)
 
 	while true do
@@ -1881,8 +1825,8 @@ local function EIFZ_fake_script() -- TextBox.LocalScript
 		end
 	end
 end
-coroutine.wrap(EIFZ_fake_script)()
-local function TAUAET_fake_script() -- TextButton_13.LocalScript 
+coroutine.wrap(VOZGD_fake_script)()
+local function HVQSICO_fake_script() -- TextButton_13.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_13)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1894,8 +1838,8 @@ local function TAUAET_fake_script() -- TextButton_13.LocalScript
 	
 	end)
 end
-coroutine.wrap(TAUAET_fake_script)()
-local function ALOW_fake_script() -- TextButton_14.LocalScript 
+coroutine.wrap(HVQSICO_fake_script)()
+local function BGEI_fake_script() -- TextButton_14.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_14)
 
 	local toggle = false
@@ -1939,34 +1883,66 @@ local function ALOW_fake_script() -- TextButton_14.LocalScript
 	
 	game.Players.PlayerAdded:Connect(function(plr)
 		plr.CharacterAdded:Connect(function(char)
-			local head = char:WaitForChild("Head")
-			
-			local billboard = Instance.new("BillboardGui")
-			local textlabel = Instance.new("TextLabel")
-			textlabel.Parent = billboard
-			billboard.AlwaysOnTop = true
-			billboard.LightInfluence = 0
-			--billboard.PlayerToHideFrom = player
-			billboard.ResetOnSpawn = 0
-			billboard.Size = UDim2.new(0, 90,0, 50)
-			billboard.StudsOffset = Vector3.new(0,4,0)
-			billboard.Name = "D4RKWARENAMETAG"
-			billboard.Parent = head
+			if toggle == true then
+				local head = char:WaitForChild("Head")
 	
-			textlabel.Text = plr.Name
-			textlabel.BackgroundTransparency = 1
-			textlabel.TextColor3 = Color3.fromRGB(255, 255, 255)
-			textlabel.FontFace.Weight = Enum.FontWeight.Bold
-			textlabel.Font = "TitilliumWeb"
-			textlabel.TextScaled = true
-			textlabel.TextStrokeColor3 = Color3.fromRGB(0, 0, 0)
-			textlabel.Size = UDim2.new(1,0,1,0)
-			textlabel.TextStrokeTransparency = 0
+				local billboard = Instance.new("BillboardGui")
+				local textlabel = Instance.new("TextLabel")
+				textlabel.Parent = billboard
+				billboard.AlwaysOnTop = true
+				billboard.LightInfluence = 0
+				--billboard.PlayerToHideFrom = player
+				billboard.ResetOnSpawn = 0
+				billboard.Size = UDim2.new(0, 90,0, 50)
+				billboard.StudsOffset = Vector3.new(0,4,0)
+				billboard.Name = "D4RKWARENAMETAG"
+				billboard.Parent = head
+	
+				textlabel.Text = plr.Name
+				textlabel.BackgroundTransparency = 1
+				textlabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+				textlabel.FontFace.Weight = Enum.FontWeight.Bold
+				textlabel.Font = "TitilliumWeb"
+				textlabel.TextScaled = true
+				textlabel.TextStrokeColor3 = Color3.fromRGB(0, 0, 0)
+				textlabel.Size = UDim2.new(1,0,1,0)
+				textlabel.TextStrokeTransparency = 0
+			end
 		end)
 	end)
+	
+	for _,player in ipairs(game.Players:GetPlayers()) do
+		player.CharacterAdded:Connect(function(char)
+			if toggle == true then
+				local head = char:WaitForChild("Head")
+	
+				local billboard = Instance.new("BillboardGui")
+				local textlabel = Instance.new("TextLabel")
+				textlabel.Parent = billboard
+				billboard.AlwaysOnTop = true
+				billboard.LightInfluence = 0
+				--billboard.PlayerToHideFrom = player
+				billboard.ResetOnSpawn = 0
+				billboard.Size = UDim2.new(0, 90,0, 50)
+				billboard.StudsOffset = Vector3.new(0,4,0)
+				billboard.Name = "D4RKWARENAMETAG"
+				billboard.Parent = head
+	
+				textlabel.Text = player.Name
+				textlabel.BackgroundTransparency = 1
+				textlabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+				textlabel.FontFace.Weight = Enum.FontWeight.Bold
+				textlabel.Font = "TitilliumWeb"
+				textlabel.TextScaled = true
+				textlabel.TextStrokeColor3 = Color3.fromRGB(0, 0, 0)
+				textlabel.Size = UDim2.new(1,0,1,0)
+				textlabel.TextStrokeTransparency = 0
+			end
+		end)
+	end
 end
-coroutine.wrap(ALOW_fake_script)()
-local function HBZK_fake_script() -- TextButton_15.LocalScript 
+coroutine.wrap(BGEI_fake_script)()
+local function WNPU_fake_script() -- TextButton_15.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_15)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -1986,8 +1962,8 @@ local function HBZK_fake_script() -- TextButton_15.LocalScript
 		end
 	end)
 end
-coroutine.wrap(HBZK_fake_script)()
-local function GZCMK_fake_script() -- TextButton_16.LocalScript 
+coroutine.wrap(WNPU_fake_script)()
+local function IMIAK_fake_script() -- TextButton_16.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_16)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2007,8 +1983,8 @@ local function GZCMK_fake_script() -- TextButton_16.LocalScript
 		end
 	end)
 end
-coroutine.wrap(GZCMK_fake_script)()
-local function MDOPLM_fake_script() -- TextButton_17.LocalScript 
+coroutine.wrap(IMIAK_fake_script)()
+local function NPBWB_fake_script() -- TextButton_17.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_17)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2019,8 +1995,8 @@ local function MDOPLM_fake_script() -- TextButton_17.LocalScript
 		end
 	end)
 end
-coroutine.wrap(MDOPLM_fake_script)()
-local function LENVX_fake_script() -- TextButton_18.LocalScript 
+coroutine.wrap(NPBWB_fake_script)()
+local function GHXKFO_fake_script() -- TextButton_18.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_18)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -2031,8 +2007,43 @@ local function LENVX_fake_script() -- TextButton_18.LocalScript
 		end
 	end)
 end
-coroutine.wrap(LENVX_fake_script)()
-local function HXREB_fake_script() -- TextBox_2.LocalScript 
+coroutine.wrap(GHXKFO_fake_script)()
+local function BFSZAY_fake_script() -- TextButton_19.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_19)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		if game.Players.LocalPlayer.PlayerGui:FindFirstChild("D4RKWARETAG") then
+			game.Players.LocalPlayer.PlayerGui:FindFirstChild("D4RKWARETAG"):Destroy()
+		else
+			local ui = Instance.new("ScreenGui")
+			local textlabel = Instance.new("TextLabel")
+			local plr = game.Players.LocalPlayer
+			local playergui = plr.PlayerGui
+	
+			ui.Name = "D4RKWARETAG"
+			ui.Parent = playergui
+	
+			textlabel.Text = ".gg/darkware"
+			textlabel.BackgroundTransparency = 1
+			textlabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+			textlabel.FontFace.Weight = Enum.FontWeight.Bold
+			textlabel.Font = "TitilliumWeb"
+			textlabel.TextScaled = true
+			textlabel.TextStrokeColor3 = Color3.fromRGB(0, 0, 0)
+			textlabel.Size = UDim2.new(.07,0,.07,0)
+			textlabel.TextStrokeTransparency = 0
+			textlabel.Parent = ui
+			local mouse = plr:GetMouse()
+	
+			while true do
+				task.wait()
+				textlabel.Position = UDim2.fromOffset(mouse.X + 1, mouse.Y + 10)
+			end
+		end
+	end)
+end
+coroutine.wrap(BFSZAY_fake_script)()
+local function TMIL_fake_script() -- TextBox_2.LocalScript 
 	local script = Instance.new('LocalScript', TextBox_2)
 
 	local Players = game:GetService("Players")
@@ -2044,7 +2055,7 @@ local function HXREB_fake_script() -- TextBox_2.LocalScript
 				if string.match(string.lower(player.Name), string.lower(script.Parent.Text)) or string.match(string.lower(player.DisplayName), string.lower(script.Parent.Text)) then
 					script.Parent.Parent.Playername.Text = player.Name
 					script.Parent.Parent.PLAYERDISPLAY.Text = player.DisplayName
-					script.Parent.Parent.HP.Text = "HP: "..player.Character.Humanoid.Health
+					script.Parent.Parent.HP.Text = "HP: "..string.sub(player.Character.Humanoid.Health, 1,3)
 					script.Parent.Parent.Joindate.Text = "AGE: "..player.AccountAge.." DAYS"
 					local userId = player.UserId
 					local thumbType = Enum.ThumbnailType.HeadShot
@@ -2059,9 +2070,9 @@ local function HXREB_fake_script() -- TextBox_2.LocalScript
 		end
 	end
 end
-coroutine.wrap(HXREB_fake_script)()
-local function OWUMH_fake_script() -- TextButton_19.LocalScript 
-	local script = Instance.new('LocalScript', TextButton_19)
+coroutine.wrap(TMIL_fake_script)()
+local function WSOQRSX_fake_script() -- TextButton_20.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_20)
 
 	local plr = game.Players.LocalPlayer
 	local char = game.Players.LocalPlayer.Character
@@ -2083,9 +2094,9 @@ local function OWUMH_fake_script() -- TextButton_19.LocalScript
 		end
 	end)
 end
-coroutine.wrap(OWUMH_fake_script)()
-local function GQYGH_fake_script() -- TextButton_20.LocalScript 
-	local script = Instance.new('LocalScript', TextButton_20)
+coroutine.wrap(WSOQRSX_fake_script)()
+local function AJHTX_fake_script() -- TextButton_21.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_21)
 
 	local plr = game.Players.LocalPlayer
 	local players = game.Players
@@ -2125,9 +2136,9 @@ local function GQYGH_fake_script() -- TextButton_20.LocalScript
 	end)
 	
 end
-coroutine.wrap(GQYGH_fake_script)()
-local function CFZGN_fake_script() -- TextButton_21.LocalScript 
-	local script = Instance.new('LocalScript', TextButton_21)
+coroutine.wrap(AJHTX_fake_script)()
+local function DDBHJ_fake_script() -- TextButton_22.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_22)
 
 	local plr = game.Players.LocalPlayer
 	local char = game.Players.LocalPlayer.Character
@@ -2139,9 +2150,9 @@ local function CFZGN_fake_script() -- TextButton_21.LocalScript
 		char.HumanoidRootPart.CFrame =  game.Players[script.Parent.Parent.Playername.Text].Character.HumanoidRootPart.CFrame * CFrame.new(0,0,3)
 	end)
 end
-coroutine.wrap(CFZGN_fake_script)()
-local function BEATP_fake_script() -- TextButton_22.LocalScript 
-	local script = Instance.new('LocalScript', TextButton_22)
+coroutine.wrap(DDBHJ_fake_script)()
+local function QYWURN_fake_script() -- TextButton_23.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_23)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		local plr = game.Players.LocalPlayer
@@ -2161,9 +2172,9 @@ local function BEATP_fake_script() -- TextButton_22.LocalScript
 		end
 	end)
 end
-coroutine.wrap(BEATP_fake_script)()
-local function IPHGFM_fake_script() -- TextButton_23.LocalScript 
-	local script = Instance.new('LocalScript', TextButton_23)
+coroutine.wrap(QYWURN_fake_script)()
+local function NINCL_fake_script() -- TextButton_24.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_24)
 
 	local plr = game.Players.LocalPlayer
 	local players = game.Players
@@ -2212,30 +2223,30 @@ local function IPHGFM_fake_script() -- TextButton_23.LocalScript
 	end)
 	
 end
-coroutine.wrap(IPHGFM_fake_script)()
-local function AYSAAKS_fake_script() -- TextButton_24.LocalScript 
-	local script = Instance.new('LocalScript', TextButton_24)
-
-	script.Parent.MouseButton1Click:Connect(function()
-		for k,v in pairs(getgc(true)) do if pcall(function() return rawget(v,"indexInstance") end) and type(rawget(v,"indexInstance")) == "table" and (rawget(v,"indexInstance"))[1] == "kick" then v.tvk = {"kick",function() return game.Workspace:WaitForChild("") end} end end
-	end)
-end
-coroutine.wrap(AYSAAKS_fake_script)()
-local function HOLHLSL_fake_script() -- TextButton_25.LocalScript 
+coroutine.wrap(NINCL_fake_script)()
+local function JBYR_fake_script() -- TextButton_25.LocalScript 
 	local script = Instance.new('LocalScript', TextButton_25)
 
 	script.Parent.MouseButton1Click:Connect(function()
 		for k,v in pairs(getgc(true)) do if pcall(function() return rawget(v,"indexInstance") end) and type(rawget(v,"indexInstance")) == "table" and (rawget(v,"indexInstance"))[1] == "kick" then v.tvk = {"kick",function() return game.Workspace:WaitForChild("") end} end end
 	end)
 end
-coroutine.wrap(HOLHLSL_fake_script)()
-local function XBTU_fake_script() -- TextLabel_12.LocalScript 
+coroutine.wrap(JBYR_fake_script)()
+local function FNPLEUL_fake_script() -- TextButton_26.LocalScript 
+	local script = Instance.new('LocalScript', TextButton_26)
+
+	script.Parent.MouseButton1Click:Connect(function()
+		for k,v in pairs(getgc(true)) do if pcall(function() return rawget(v,"indexInstance") end) and type(rawget(v,"indexInstance")) == "table" and (rawget(v,"indexInstance"))[1] == "kick" then v.tvk = {"kick",function() return game.Workspace:WaitForChild("") end} end end
+	end)
+end
+coroutine.wrap(FNPLEUL_fake_script)()
+local function OKBWUH_fake_script() -- TextLabel_12.LocalScript 
 	local script = Instance.new('LocalScript', TextLabel_12)
 
 	script.Parent.Text = game.Players.LocalPlayer.DisplayName
 end
-coroutine.wrap(XBTU_fake_script)()
-local function EUONGJ_fake_script() -- DWV2.Intro 
+coroutine.wrap(OKBWUH_fake_script)()
+local function SSSTV_fake_script() -- DWV2.Intro 
 	local script = Instance.new('LocalScript', DWV2)
 
 	script.Parent.Enabled = true
@@ -2288,8 +2299,8 @@ local function EUONGJ_fake_script() -- DWV2.Intro
 		end
 	end)
 end
-coroutine.wrap(EUONGJ_fake_script)()
-local function XHDU_fake_script() -- DWV2.Admin 
+coroutine.wrap(SSSTV_fake_script)()
+local function MMSKX_fake_script() -- DWV2.Admin 
 	local script = Instance.new('LocalScript', DWV2)
 
 	game.Players.LocalPlayer.Chatted:Connect(function(msg)
@@ -2298,4 +2309,4 @@ local function XHDU_fake_script() -- DWV2.Admin
 		end
 	end)
 end
-coroutine.wrap(XHDU_fake_script)()
+coroutine.wrap(MMSKX_fake_script)()
